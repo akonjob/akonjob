@@ -5,7 +5,7 @@
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
 
 ## Status
-[![Discord Presence](https://discord.com/users/554303810709880842)
+[![Discord Presence](https://lanyard.cnrad.dev/api/554303810709880842)](https://discord.com/users/554303810709880842)
 
 
 
