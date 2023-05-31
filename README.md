@@ -1,3 +1,9 @@
+<h1>akonjob</h1>
+
+- student
+- united kingdom
+
+
 ## Skills
 
 <img width="20" src="https://img.icons8.com/color/512/fivem.png" /> Fivem
