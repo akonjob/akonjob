@@ -1,6 +1,5 @@
 <h1>akonjob</h1>
 
-- student
 - united kingdom
 
 
