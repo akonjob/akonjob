@@ -1,7 +1,6 @@
 <h1>akonjob</h1>
 
 - united kingdom
-- contact me via discord 
 
 
 ## Skills
