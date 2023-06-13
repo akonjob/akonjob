@@ -1,6 +1,5 @@
 <h1>akonjob</h1>
 
-- united kingdom
 - best developer in the Fivem community 
 
 
