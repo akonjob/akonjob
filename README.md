@@ -1,6 +1,6 @@
 <h1>akonjob</h1>
 
-- best developer in the Fivem community 
+- open to freelance work 
 
 
 ## Skills
