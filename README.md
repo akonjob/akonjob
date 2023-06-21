@@ -1,6 +1,5 @@
 <h1>akonjob</h1>
 
-- open to freelance work 
 
 
 ## Skills
